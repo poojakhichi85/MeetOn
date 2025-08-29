@@ -232,12 +232,8 @@ export function HomeComponent() {
             }}>
                 
           
-                <div style={{ display: 'flex', alignItems: 'center' }}>
-                    <img
-                        src="/logo-meeton.png"
-                        alt="MeetOn Logo"
-                        style={{ height: '35px', marginRight: '10px' }}
-                    />
+                <div >   
+                    
                     <h2 style={{ fontSize: '1.5rem', margin: 0 }}>MeetOn</h2>
                 </div>
 
